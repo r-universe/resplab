@@ -1,5 +1,9 @@
 [
   {
+    "package": "accept",
+    "oncran": true
+  },
+  {
     "package": "predtools",
     "oncran": true
   }

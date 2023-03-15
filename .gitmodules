@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "accept"]
+	path = accept
+	url = https://github.com/resplab/accept
+	shallow = true
+	registered = true
 [submodule "predtools"]
 	path = predtools
 	url = https://github.com/resplab/predtools
