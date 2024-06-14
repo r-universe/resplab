@@ -5,6 +5,9 @@
 [submodule "accept"]
 	path = accept
 	url = https://github.com/resplab/accept
+[submodule "cumulcalib"]
+	path = cumulcalib
+	url = https://github.com/resplab/cumulcalib
 [submodule "predtools"]
 	path = predtools
 	url = https://github.com/resplab/predtools
