@@ -8,6 +8,9 @@
 [submodule "cumulcalib"]
 	path = cumulcalib
 	url = https://github.com/resplab/cumulcalib
+[submodule "epicR"]
+	path = epicR
+	url = https://github.com/resplab/epicr
 [submodule "predtools"]
 	path = predtools
 	url = https://github.com/resplab/predtools
