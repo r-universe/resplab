@@ -5,6 +5,9 @@
 [submodule "accept"]
 	path = accept
 	url = https://github.com/resplab/accept
+[submodule "bayespmtools"]
+	path = bayespmtools
+	url = https://github.com/resplab/bayespmtools
 [submodule "cumulcalib"]
 	path = cumulcalib
 	url = https://github.com/resplab/cumulcalib
